@@ -70,3 +70,19 @@ end
 
 cups_of_flour = 1
 has_sauce = true
+
+**My code on Replit:**
+
+flour = 6
+sauce = true
+
+flour = 6
+sauce = false
+
+if flour < 2 && sauce == true
+  puts "I cannot make pizza!"
+elsif flour < 2 || sauce == false
+  puts "I cannot make pizza!"
+else
+  puts "I can make pizza!"
+end
