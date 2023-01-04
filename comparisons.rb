@@ -53,21 +53,21 @@ print true
 # Make sure YOU can explain it that way!
 
 puts 4 < 9
-#YOU DO: Explain.
+#YOU DO: True, 4 is less than 9
 
 books = 3
 puts 4 < books
-# YOU DO: Explain.
+# YOU DO: False, 4 is not less than the number of books which is 3
 
 friends = 6
 siblings = 2
 puts friends > siblings
-# YOU DO: Explain.
+# YOU DO: True, the number of friends is greater than the number of siblings
 
 attendees = 9
 meals = 8
 puts attendees != meals
-# YOU DO: Explain.
+# YOU DO: True, the bang symbol with equal sign means not equal so the number of attendees does not equal the number of meals
 
 
 #-------------------
