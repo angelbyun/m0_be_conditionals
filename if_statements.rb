@@ -46,6 +46,13 @@ num_quarters = 0
 puts "I have enough money for a gumball"
 puts "I don't have enough money for a gumball"
 
+**My code on Replit:**
+
+if num_quarters == 2
+  puts "I have enough money to buy a gumball!"
+else num_quarters < 2
+  puts "I don't have enough money to buy a gumball!"
+end
 
 #####################
 # Using the variables defined below, write code that will tell you
