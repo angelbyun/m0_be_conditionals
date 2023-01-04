@@ -90,15 +90,17 @@ age = 1
 
 # YOU DO:
 # Determine if the dog loves to play and loves treats
-
+print true
 
 # Determine if the dog loves to play and loves the dog park
-
+print false
 
 # Determine if the dog loves to play or loves the dog park
-
+print true
 
 # Determine if the dog loves to play and is a puppy
+Nothing came up for the last one
 
 # What did your final line of code evaluate to? Why do you think that is? Explain.
-# ANSWER:
+# ANSWER: Comparison operators are Ruby statements that evaluate to true or false. Because age is not a boolean but a string, it does not fall under that true or false statement.
+
